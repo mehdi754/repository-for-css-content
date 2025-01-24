@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 15px;
+}
+
+p{
+    padding: 5px 0;
+}
+
+h5{
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight:bold ;
+    color: white;
+}
+
+.container02{
+    background-color: #009688;
+}
+
+.CONTAINER-P{
+    color: white;
+}
